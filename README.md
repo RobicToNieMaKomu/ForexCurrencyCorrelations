@@ -18,6 +18,7 @@ ForexCurrencyCorrelations consists of two independent microservices (cc + mst) a
 Used technologies
 --------------
 - Server side is written in Java EE7 running on Wildfly 8 (hosted in OpenShift cloud)
+- Data storage: MongoDB
 - Front end: HTML5 + JS + Bootstrap + Angular JS
 
 Browse my repo (cc, mst or front) if you're looking for source code.
